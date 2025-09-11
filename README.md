@@ -1,4 +1,4 @@
-https://github.com/tikhomirovao/react_movies
+https://tikhomirovao.github.io/react_movies
 
 # Getting Started with Create React App
 
